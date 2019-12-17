@@ -1,0 +1,585 @@
+{
+  "flightsdata": [
+    {
+      "id": "SG-1807",
+      "flightCompany": "Vistara",
+      "departureName": "Delhi",
+      "departureTime": "07:35",
+      "arrivalName": "Bangalore",
+      "arrivalTime": "04:05",
+      "price": 1440,
+      "duration": "02 hrs 55 min",
+      "economy": 150,
+      "business": 50,
+      "distance": 12,
+      "departuredate":"10/12/2019",
+      "returndate":"11/12/2019"  
+    },
+    {
+      "id": "SG-160",
+      "flightCompany": "Spicejet",
+      "departureName": "Bangalore",
+      "departureTime": "16:35",
+      "arrivalName": "Delhi",
+      "arrivalTime": "10:25",
+      "price": 70000,
+      "duration": "03 hrs 00 min",
+      "economy": 150,
+      "business": 10,
+      "distance": 1000,
+      "departuredate":"11/12/2019",
+      "returndate":"12/12/2019"  
+    },
+    {
+      "id": "SG-198",
+      "flightCompany": "Spicejet",
+      "departureName": "Pune",
+      "departureTime": "06:35",
+      "arrivalName": "Delhi",
+      "arrivalTime": "09:00",
+      "price": 7520,
+      "duration": "02 hrs 25 min",
+      "economy": 150,
+      "business": 50,
+      "departuredate":"12/12/2019",
+      "returndate":"13/12/2019"  
+    },
+    {
+      "id": "6E-545",
+      "flightCompany": "Indigo",
+      "departureName": "Chennai",
+      "departureTime": "18:00",
+      "arrivalName": "Hyderabad",
+      "arrivalTime": "19:10",
+      "price": 3200,
+      "duration": "01 hrs 10 min",
+      "economy": 150,
+      "business": 50,
+      "departuredate":"13/12/2019",
+      "returndate":"14/12/2019"  
+    },
+    {
+      "id": "AA-678",
+      "flightCompany": "AirAsia",
+      "departureName": "Kolkata",
+      "departureTime": "16:35",
+      "arrivalName": "Bangalore",
+      "arrivalTime": "19:25",
+      "price": 10000,
+      "duration": "02 hrs 55 min",
+      "economy": 150,
+      "business": 50,
+      "departuredate":"14/12/2019",
+      "returndate":"15/12/2019"  
+    },
+    {
+      "id": "6E-618",
+      "flightCompany": "Indigo",
+      "departureName": "Hyderabad",
+      "departureTime": "04:00",
+      "arrivalName": "Bangalore",
+      "arrivalTime": "05:25",
+      "price": 3051,
+      "duration": "01 hrs 25 min",
+      "economy": 150,
+      "business": 50,
+      "departuredate":"15/12/2019",
+      "returndate":"16/12/2019"  
+    },
+    {
+      "id": "VS-455",
+      "flightCompany": "Vistara",
+      "departureName": "Chandigarh",
+      "departureTime": "02:00",
+      "arrivalName": "Noida",
+      "arrivalTime": "01:30",
+      "price": 3551,
+      "duration": "01 hrs 30 min",
+      "economy": 150,
+      "business": 50,
+      "departuredate":"16/12/2019",
+      "returndate":"17/12/2019"  
+    },
+    {
+      "id": "VS-456",
+      "flightCompany": "Vistara",
+      "departureName": "Mumbai",
+      "departureTime": "05:00",
+      "arrivalName": "Pune",
+      "arrivalTime": "06:00",
+      "price": 2125,
+      "duration": "01 hrs 00 min",
+      "economy": 150,
+      "business": 50,
+      "departuredate":"17/12/2019",
+      "returndate":"18/12/2019"  
+    },
+    {
+      "id": "AI-4456",
+      "flightCompany": "Airindia",
+      "departureName": "Bangalore",
+      "departureTime": "13:40",
+      "arrivalName": "Delhi",
+      "arrivalTime": "16:00",
+      "price": 70000,
+      "duration": "02 hrs 55 min",
+      "economy": 110,
+      "business": 10,
+      "departuredate":"18/12/2019",
+      "returndate":"19/12/2019"  
+    },
+    {
+      "id": "SG-1101",
+      "flightCompany": "Spicejet",
+      "departureName": "Delhi",
+      "departureTime": "11:03",
+      "arrivalName": "Bangalore",
+      "arrivalTime": "14:09",
+      "price": 51000,
+      "duration": "3hrs 6mins",
+      "economy": 50,
+      "business": 10,
+      "departuredate":"19/12/2019",
+      "returndate":"20/12/2019"  
+    },
+    {
+      "id": "AI-1123",
+      "flightCompany": "Airindia",
+      "departureName": "Bangalore",
+      "departureTime": "08:08",
+      "arrivalName": "Delhi",
+      "arrivalTime": "23:00",
+      "price": 70000,
+      "duration": "3 hours 00 mins",
+      "economy": 80,
+      "business": 10,
+      "departuredate":"20/12/2019",
+      "returndate":"21/12/2019"  
+    }
+  ],
+  "profiledata": [
+    {
+      "fullName": "Simarjot Singhcgc",
+      "id": "rnqsharma3@gmail.com",
+      "password": "lol123",
+      "gender": "male",
+      "dob": "2019-11-13",
+      "address": "Manyata Tech Park",
+      "city": "hyderabad",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": 560045,
+      "mobile": 6987985890,
+      "rights": "user",
+      "bookedFlights": [
+        {
+          "flightId": "VS-455",
+          "flightCompany": "Vistara",
+          "departureName": "Chandigarh",
+          "departureTime": "02:00",
+          "arrivalName": "Noida",
+          "arrivalTime": "03:30",
+          "price": 3551,
+          "duration": "01 hrs 30 min"
+        }
+      ],
+      "email": "rnqsharma3@gmail.com"
+    },
+    {
+      "fullName": "Raunaq",
+      "id": "admin@gmail.com",
+      "password": "admin123",
+      "gender": "male",
+      "dob": "11-05-1997",
+      "address": "646/20 Prem Nagar, Rohtak, Haryana",
+      "city": "Rohtak",
+      "state": "Haryana",
+      "country": "India",
+      "pin code": 124001,
+      "mobile": 7206187562,
+      "rights": "admin",
+      "bookedFlights": [
+        {
+          "flightId": "VS-455",
+          "flightCompany": "Vistara",
+          "departureName": "Chandigarh",
+          "departureTime": "02:00",
+          "arrivalName": "Noida",
+          "arrivalTime": "03:30",
+          "price": 3551,
+          "duration": "01 hrs 30 min"
+        }
+      ]
+    },
+    {
+      "fullName": "Simarjot Singhh",
+      "id": "simar@gmail.com",
+      "password": "lol123",
+      "gender": "female",
+      "dob": "2019-11-13",
+      "address": "Manyata Tech Park",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": 560045,
+      "mobile": 6987985890,
+      "rights": "user",
+      "bookedFlights": [
+        {
+          "flightId": "VS-455",
+          "flightCompany": "Vistara",
+          "departureName": "Chandigarh",
+          "departureTime": "02:00",
+          "arrivalName": "Noida",
+          "arrivalTime": "03:30",
+          "price": 3551,
+          "duration": "01 hrs 30 min"
+        }
+      ]
+    },
+    {
+      "fullName": "Rajni",
+      "id": "rajnimalhotra@gmail.com",
+      "password": "123",
+      "gender": "Female",
+      "dob": "2019-11-20",
+      "address": "Manyata Tech Park",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": 560045,
+      "mobile": 9899879870,
+      "rights": "user",
+      "bookedFlights": [
+        {
+          "flightId": "VS-455",
+          "flightCompany": "Vistara",
+          "departureName": "Chandigarh",
+          "departureTime": "02:00",
+          "arrivalName": "Noida",
+          "arrivalTime": "03:30",
+          "price": 3551,
+          "duration": "01 hrs 30 min"
+        }
+      ]
+    },
+    {
+      "fullName": "Pooja",
+      "id": "kkpooja97@gmail.com",
+      "password": "hellothere",
+      "gender": "Female",
+      "dob": "1997-11-24",
+      "address": "Magnolia Apartments",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "pincode": 411021,
+      "mobile": 8412000997,
+      "rights": "user",
+      "bookedFlights": [
+        {
+          "flightId": "VS-455",
+          "flightCompany": "Vistara",
+          "departureName": "Chandigarh",
+          "departureTime": "02:00",
+          "arrivalName": "Noida",
+          "arrivalTime": "03:30",
+          "price": 3551,
+          "duration": "01 hrs 30 min"
+        }
+      ]
+    },
+    {
+      "fullName": "Sandhya",
+      "id": "sandhyasandy@gmail.com",
+      "password": "wowmomo",
+      "gender": "Female",
+      "dob": "1997-08-30",
+      "address": "Hi-Tech City",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "pincode": 245009,
+      "mobile": 7843785098,
+      "rights": "user",
+      "bookedFlights": [
+        {
+          "flightId": "VS-455",
+          "flightCompany": "Vistara",
+          "departureName": "Chandigarh",
+          "departureTime": "02:00",
+          "arrivalName": "Noida",
+          "arrivalTime": "03:30",
+          "price": 3551,
+          "duration": "01 hrs 30 min"
+        }
+      ]
+    },
+    {
+      "fullName": "lmao",
+      "id": "lol",
+      "password": "",
+      "gender": "Male",
+      "dob": "",
+      "address": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "pincode": 0,
+      "mobile": 0,
+      "rights": "",
+      "bookedFlights": [
+        {
+          "flightId": "",
+          "flightCompany": "",
+          "departureName": "",
+          "departureTime": "",
+          "arrivalName": "",
+          "arrivalTime": "",
+          "price": 0,
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "fullName": "lmalam",
+      "id": "asdslda",
+      "password": "",
+      "gender": "Male",
+      "dob": "",
+      "address": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "pincode": 0,
+      "mobile": 0,
+      "rights": "",
+      "bookedFlights": [
+        {
+          "flightId": "",
+          "flightCompany": "",
+          "departureName": "",
+          "departureTime": "",
+          "arrivalName": "",
+          "arrivalTime": "",
+          "price": 0,
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "fullName": "aaa",
+      "id": "oooo",
+      "password": "",
+      "gender": "Male",
+      "dob": "",
+      "address": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "pincode": 0,
+      "mobile": 0,
+      "rights": "",
+      "bookedFlights": [
+        {
+          "flightId": "",
+          "flightCompany": "",
+          "departureName": "",
+          "departureTime": "",
+          "arrivalName": "",
+          "arrivalTime": "",
+          "price": 0,
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "fullName": "lolo",
+      "id": "lolo@yahoo.com",
+      "password": "123",
+      "gender": "Other",
+      "dob": "2019-03-08",
+      "address": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "pincode": 0,
+      "mobile": 0,
+      "rights": "user",
+      "bookedFlights": [
+        {
+          "flightId": "",
+          "flightCompany": "",
+          "departureName": "",
+          "departureTime": "",
+          "arrivalName": "",
+          "arrivalTime": "",
+          "price": 0,
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "fullName": "abcc",
+      "id": "abc@gmail.com",
+      "password": "123",
+      "gender": "Male",
+      "dob": "2019-10-30",
+      "address": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "pincode": 0,
+      "mobile": 0,
+      "rights": "",
+      "bookedFlights": [
+        {
+          "flightId": "",
+          "flightCompany": "",
+          "departureName": "",
+          "departureTime": "",
+          "arrivalName": "",
+          "arrivalTime": "",
+          "price": 0,
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "fullName": "lolo23",
+      "id": "lolo23@gmail.com",
+      "password": "1234",
+      "gender": "Male",
+      "dob": "2019-11-20",
+      "address": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "pincode": 0,
+      "mobile": 0,
+      "rights": "user",
+      "bookedFlights": [
+        {
+          "flightId": "",
+          "flightCompany": "",
+          "departureName": "",
+          "departureTime": "",
+          "arrivalName": "",
+          "arrivalTime": "",
+          "price": 0,
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "fullName": "Lolo Singh",
+      "id": "lolo@ymail.com",
+      "password": "lolo123",
+      "gender": "Other",
+      "dob": "2019-11-22",
+      "address": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "pincode": 0,
+      "mobile": 0,
+      "rights": "user",
+      "bookedFlights": [
+        {
+          "flightId": "",
+          "flightCompany": "",
+          "departureName": "",
+          "departureTime": "",
+          "arrivalName": "",
+          "arrivalTime": "",
+          "price": 0,
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "fullName": "tanish",
+      "id": "tanish@gmail.com",
+      "password": "12345",
+      "gender": "Male",
+      "dob": "2019-11-13",
+      "address": "76,Bhagwati Colony near Jain Temple, Behat Road",
+      "city": "Saharanpur",
+      "state": "Uttar Pradesh",
+      "country": "india",
+      "pincode": 247001,
+      "mobile": 8077623889,
+      "rights": "user",
+      "bookedFlights": [
+        {
+          "flightId": "",
+          "flightCompany": "",
+          "departureName": "",
+          "departureTime": "",
+          "arrivalName": "",
+          "arrivalTime": "",
+          "price": 0,
+          "duration": ""
+        }
+      ],
+      "email": "tanish@gmail.com"
+    }
+  ],
+  "citydetails": [
+    {
+      "cityName": "Delhi",
+      "id": "DL"
+    },
+    {
+      "cityName": "Bangalore",
+      "id": "BLR"
+    },
+    {
+      "cityName": "Mumbai",
+      "id": "MUM"
+    },
+    {
+      "cityName": "Kolkata",
+      "id": "KOL"
+    },
+    {
+      "cityName": "Pune",
+      "id": "PUN"
+    },
+    {
+      "cityName": "New York City",
+      "id": "NYC"
+    },
+    {
+      "cityName": "Lck",
+      "id": "Lucknow"
+    }
+  ],
+  "airlines": [
+    {
+      "airLineName": "Spicejet",
+      "id": "SG",
+      "logo": "../src/assets/images/spicejet.png"
+    },
+    {
+      "airLineName": "Airindia",
+      "id": "AI",
+      "logo": "../src/assets/images/airindia.png"
+    },
+    {
+      "airLineName": "Vistara",
+      "id": "VT",
+      "logo": "../src/assets/images/vistara.png"
+    },
+    {
+      "airLineName": "Indigo",
+      "id": "Ig",
+      "logo": "../src/assets/images/indigo.png"
+    },
+    {
+      "airLineName": "GoAir",
+      "id": "123",
+      "logo": ""
+    }
+  ]
+}
