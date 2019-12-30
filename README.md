@@ -30,4 +30,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Images of the Application
 
+<img width="777" alt="img1 - Copy" src="https://user-images.githubusercontent.com/32439809/71576858-0f0de600-2b18-11ea-80a2-9099a095f28f.PNG">
+<img width="777" alt="img1" src="https://user-images.githubusercontent.com/32439809/71576859-0f0de600-2b18-11ea-99b4-0ae6817d3417.PNG">
+<img width="918" alt="img2" src="https://user-images.githubusercontent.com/32439809/71576860-0f0de600-2b18-11ea-987e-4f7709a0edf7.PNG">
+<img width="906" alt="img3" src="https://user-images.githubusercontent.com/32439809/71576861-0fa67c80-2b18-11ea-8dd5-c46295e47a56.PNG">
+<img width="903" alt="img4" src="https://user-images.githubusercontent.com/32439809/71576862-0fa67c80-2b18-11ea-9c68-4d8947b97c45.PNG">
+<img width="895" alt="img5" src="https://user-images.githubusercontent.com/32439809/71576863-103f1300-2b18-11ea-96ab-ad19e95603a9.PNG">
+<img width="648" alt="img6 - Copy" src="https://user-images.githubusercontent.com/32439809/71576864-103f1300-2b18-11ea-90c2-73c9d0ebea12.PNG">
+<img width="648" alt="img6" src="https://user-images.githubusercontent.com/32439809/71576865-103f1300-2b18-11ea-9b65-f5101822d03f.PNG">
 
